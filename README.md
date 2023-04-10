@@ -9,7 +9,8 @@ I have used various techniques:
  * [Text processing](https://www.datarobot.com/blog/text-processing-what-why-and-how/)
  * [Word Vectorization](https://www.geeksforgeeks.org/word-embeddings-in-nlp/)
 
-
+Dataset used from Kaggle
+https://www.kaggle.com/datasets/basilb2s/language-detection
     
 
 
